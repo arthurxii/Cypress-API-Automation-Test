@@ -1,0 +1,22 @@
+{
+  "name": "tcc-cypress",
+  "version": "1.0.0",
+  "description": "TCC Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "code-runner.runInTerminal": "true"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Arthur Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
